@@ -1,6 +1,6 @@
 # Modais em HTML, CSS, JS
 
-![GitHub Channel Views](https://img.shields.io/youtube/channel/views/UCGyyQGmPjRe94vZ60wm42Mw?label=Views%20YouTube&style=social)
+![GitHub Channel Views](https://img.shields.io/youtube/channel/views/UCGyyQGmPjRe94vZ60wm42Mw?label=LaboratorioDoDev&style=social)
 <div>
   <a href="https://www.youtube.com/channel/UCGyyQGmPjRe94vZ60wm42Mw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/cleisson_andrade" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
