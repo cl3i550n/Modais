@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplos Modais</title>
+
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap" rel="stylesheet" />
+</head>
+
+<body>
+    <div class="container">
+        <!-- Exemplo 01 -->
+        <div class="spaceWithButtons">
+            <button onclick="toggleModal01()" type="button">Exemplo 01</button>
+            <div class="background" onclick="toggleModal01()"></div>
+            <div class="modal01">
+                <h2>Olá Sou um modal</h2>
+                <p>
+                    Um modal é uma caixa de diálogo/janela popup exibida para
+                    informar, alertar, confirmar algo, e outras coisas.
+                </p>
+            </div>
+
+            <!-- Exemplo 02 -->
+            <button onclick="toggleModal02()" type="button">Exemplo 02</button>
+            <div class="modal-background" onclick="toggleModal02()"></div>
+            <div class="modal02">
+                <h2>Olá Sou um modal</h2>
+                <p>
+                    Um modal é uma caixa de diálogo/janela popup exibida para
+                    informar, alertar, confirmar algo, e outras coisas.
+                </p>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
