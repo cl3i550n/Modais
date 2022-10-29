@@ -11,7 +11,7 @@
 ![GitHub Downloads](https://img.shields.io/github/downloads/cl3i550n/Projeto_AppLabsDoDev/total?style=plastic)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/cl3i550n/Projeto_AppLabsDoDev?style=plastic)
 
-<img src="https://i.ibb.co/v4NTxvH/Design-sem-nome.gif" alt="Design-sem-nome" border="0" width="350" height="350">
+<img src="https://i.ibb.co/v4NTxvH/Design-sem-nome.gif" border="0" width="350" height="350">
 
 ## 💻 Projeto!
 
